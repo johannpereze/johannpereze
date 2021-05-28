@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Javascript, HTML and CSS
 - 💞️ I’m looking to collaborate on any jr project as a frontend
 - 📫 You can rechme on instagram @johannpereze
+- ▶️ I also have a youtube channel https://www.youtube.com/c/JohannPerezE/
 
 <!---
 johannpereze/johannpereze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
