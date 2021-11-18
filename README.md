@@ -16,6 +16,16 @@ Specialized in Javascript and modern frameworks/libraries. I love UI/UX design. 
 - Figma / Illustrator
 - NodeJs / Express
 
+## My coolest projects: (click even if you're not a developer)
+
+ - [Masters Memory Game](https://masters-memory.netlify.app/)
+ - [Arduino Spanish Course](https://www.youtube.com/playlist?list=PLyLh25DppBIe40j3VBAslnVfs4Pz-B3ZB) 
+ - [Pokedex](https://johannpereze.github.io/pokedex/)
+ - [GifsApp](https://gifappbyjohannpereze.netlify.app/) 
+ - [CountriesApp](https://countrys-by-johannpereze.netlify.app/)
+ - [AngularPipes](https://angular-pipes-johannpereze.netlify.app/)
+
+## Additional Info
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johannpereze&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
