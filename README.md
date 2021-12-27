@@ -11,10 +11,10 @@ Specialized in Javascript and modern frameworks/libraries. I love UI/UX design. 
 
 ## My stack:
 
-- Angular / React
+- React / Angular
 - JavaScript / TypeScript
-- Jest / Enzyme
-- Bootstrap / PrimeNg
+- Jest / Testing Library
+- MUI / PrimeNg
 - Figma / Illustrator
 - NodeJs / Express
 
