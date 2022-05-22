@@ -11,21 +11,23 @@ Specialized in Javascript and modern frameworks/libraries. I love UI/UX design. 
 
 ## My stack:
 
-- React / Angular
+- ReactJS
 - JavaScript / TypeScript
 - Jest / Testing Library
 - MUI / PrimeNg
 - Figma / Illustrator
 - NodeJs / Express
+- AWS / Amplify
 
 ## My coolest projects: (click even if you're not a developer)
 
  - [Masters Memory Game](https://masters-memory.netlify.app/) A fun game to discover unusual words in english
+ - [English Game](https://nominis-assessment.netlify.app/) Developed for a technical interview in 1 day
+ - [React Web Template](https://johannpereze.github.io/react-web-template-cra/) A starting point for any ract app all developed by myself. You can Sign In
  - [Arduino Spanish Course](https://www.youtube.com/playlist?list=PLyLh25DppBIe40j3VBAslnVfs4Pz-B3ZB) My 17+ hours course for learning Arduino for FREE
  - [Pokedex](https://johannpereze.github.io/pokedex/) This is just a PokeDex, but have you seen a prettier one?
  - [GifsApp](https://gifappbyjohannpereze.netlify.app/) Find Gifs of any category you can think of
  - [CountriesApp](https://countrys-by-johannpereze.netlify.app/) Search countries and learn statistics and interesting data
- - [AngularPipes](https://angular-pipes-johannpereze.netlify.app/) An app to test the data formatting of the Angular Framework
 
 ## Additional Info
 
