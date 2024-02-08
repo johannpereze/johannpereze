@@ -19,7 +19,7 @@ Specialized in Javascript and modern frameworks/libraries. I love UI/UX design. 
 
 ## My coolest projects: (click even if you're not a developer)
 
- - [Trinomoji](https://masters-memory.netlify.app/) A nice Twitter (X) clone with a twist. You can only tweet emojis!
+ - [Trinomoji](https://trinomoji.vercel.app/) A nice Twitter (X) clone with a twist. You can only tweet emojis!
  - [Masters Memory Game](https://masters-memory.netlify.app/) A fun game to discover unusual words in English
  - [English Game](https://nominis-assessment.netlify.app/) Developed for a technical interview in 1 day
  - [Medabots App](https://johannpereze.github.io/medabots-app/login) Pixel Art prototype app designed by me, inspired by the Medabots Game
